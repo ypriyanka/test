@@ -1,1 +1,20 @@
-hiiiii<?gfgdg
+hiiiiiiiii 
+
+// first
+jhdsfshdbnvbsdnvb //second
+
+/*third*/
+hdjsgdjhfsdgsjdjh
+
+/*fourth
+multi line*/
+ hjgkdhkgjhdjfh
+
+/*fifth*/ /*sixth*/
+
+
+/*seventh/*notcomment*/ seventh*/
+
+#eight is comment too
+
+echo "hi this is not a comment /*not comment*/ how r u";
